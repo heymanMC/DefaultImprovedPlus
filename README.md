@@ -1,5 +1,5 @@
 # Default Improved+
-Updated version of Improved Default by h0ppip
+Updated version of Default Improved by h0ppip
 
 Original pack link: https://www.curseforge.com/minecraft/texture-packs/default-improved
 
