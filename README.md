@@ -3,9 +3,11 @@ Updated version of Default Improved by h0ppip
 
 Original pack link: https://www.curseforge.com/minecraft/texture-packs/default-improved
 
-## Pictures: 
+## Pictures:
+Works great with Complementary:
+![2021-08-13_08 00 58](https://user-images.githubusercontent.com/38384673/129369399-33c2a366-53c4-4522-8d0c-3b7c78cb5b09.png)
 
-![2021-08-12_10 22 34](https://user-images.githubusercontent.com/38384673/129232592-9b6a3f93-79d0-46e8-8391-404bf6c55e38.png)
+![2021-08-13_08 03 55](https://user-images.githubusercontent.com/38384673/129369340-7dd2d215-09ba-4512-a773-cef316ba7060.png)
 
 ![2021-08-12_10 25 47](https://user-images.githubusercontent.com/38384673/129232972-69d1a522-b1f4-4beb-aaf1-a26501438a29.png)
 
